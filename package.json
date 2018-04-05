@@ -1,0 +1,10 @@
+{
+  "name": "express-session-test",
+  "version": "1.0.0",
+  "description": "Testing Express Session",
+  "main": "index.js",
+  "repository": "https://github.com/usuarioJapa/express-session-test.git",
+  "author": "userJapa",
+  "license": "MIT",
+  "private": false
+}
