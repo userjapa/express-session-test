@@ -3,8 +3,19 @@
   "version": "1.0.0",
   "description": "Testing Express Session",
   "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
   "repository": "https://github.com/usuarioJapa/express-session-test.git",
   "author": "userJapa",
   "license": "MIT",
-  "private": false
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "keygrip": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
 }
